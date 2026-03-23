@@ -1,0 +1,183 @@
+SHAP Analysis Report for Seed 2025
+==================================================
+
+[cluster_0]
+  Sampled Texts: 30
+  > Feature: Feature_589 (Idx: 588)
+    Importance Score: 1.3654
+    Key Influencing Tokens:
+      - '’' : -0.3515
+      - 'I' : -0.3210
+      - 'help' : -0.2609
+      - 'sorry' : -0.2503
+      - 'can' : -0.2192
+
+  > Feature: Feature_705 (Idx: 704)
+    Importance Score: 1.3063
+    Key Influencing Tokens:
+      - 'template' : 0.9325
+      - ':' : 0.7221
+      - 'sorry' : 0.7145
+      - 'can' : 0.5952
+      - 't' : 0.5749
+
+  > Feature: Feature_238 (Idx: 237)
+    Importance Score: 1.2895
+    Key Influencing Tokens:
+      - 'prompt' : -0.6404
+      - 'ji' : -0.4728
+      - 'nja' : -0.4728
+      - 'sorry' : -0.4042
+      - '’' : -0.3872
+
+------------------------------
+[cluster_1]
+  Sampled Texts: 30
+  > Feature: Feature_342 (Idx: 341)
+    Importance Score: 1.1022
+    Key Influencing Tokens:
+      - '。' : -0.1901
+      - '，' : -0.1700
+      - '安全' : -0.1121
+      - 'think' : -0.0911
+      - '>' : -0.0703
+
+  > Feature: Feature_29 (Idx: 28)
+    Importance Score: 1.0782
+    Key Influencing Tokens:
+      - '，' : 0.1730
+      - '。' : 0.1018
+      - '安全' : 0.0908
+      - '的' : 0.0431
+      - '和' : 0.0379
+
+  > Feature: Feature_341 (Idx: 340)
+    Importance Score: 1.0316
+    Key Influencing Tokens:
+      - '，' : 0.1305
+      - '。' : 0.1282
+      - '安全' : 0.0378
+      - '的' : 0.0376
+      - 'think' : 0.0313
+
+------------------------------
+[cluster_2]
+  Sampled Texts: 30
+  > Feature: Feature_599 (Idx: 598)
+    Importance Score: 0.8932
+    Key Influencing Tokens:
+      - '，' : 0.1575
+      - '。' : 0.1333
+      - '的' : 0.0878
+      - '和' : 0.0436
+      - '**' : 0.0426
+
+  > Feature: Feature_369 (Idx: 368)
+    Importance Score: 0.7892
+    Key Influencing Tokens:
+      - '。' : -0.0399
+      - '，' : -0.0308
+      - '网络安全' : 0.0253
+      - '>' : -0.0211
+      - '<' : -0.0152
+
+  > Feature: Feature_381 (Idx: 380)
+    Importance Score: 0.7783
+    Key Influencing Tokens:
+      - '，' : 0.1720
+      - '。' : 0.1035
+      - '的' : 0.0841
+      - '和' : 0.0401
+      - '**' : 0.0330
+
+------------------------------
+[cluster_3]
+  Sampled Texts: 30
+  > Feature: Feature_274 (Idx: 273)
+    Importance Score: 1.6942
+    Key Influencing Tokens:
+      - 'time' : 0.2524
+      - 'host' : 0.1388
+      - 'Connect' : 0.1256
+      - 'out' : 0.1063
+      - '=1' : 0.0856
+
+  > Feature: Feature_598 (Idx: 597)
+    Importance Score: 1.6572
+    Key Influencing Tokens:
+      - 'Connect' : 0.2171
+      - 'LM' : 0.1657
+      - '=' : 0.1412
+      - 'Studio' : 0.1345
+      - 'Error' : 0.1090
+
+  > Feature: Feature_217 (Idx: 216)
+    Importance Score: 1.6391
+    Key Influencing Tokens:
+      - 'out' : -0.1718
+      - 'local' : -0.1585
+      - 'time' : -0.1375
+      - 'Studio' : -0.1363
+      - 'Error' : -0.1152
+
+------------------------------
+[cluster_4]
+  Sampled Texts: 30
+  > Feature: Feature_358 (Idx: 357)
+    Importance Score: 0.9889
+    Key Influencing Tokens:
+      - '拒絕' : 0.3298
+      - '拒' : 0.1431
+      - '安全性' : -0.1071
+      - 'posso' : 0.0723
+      - '我' : 0.0430
+
+  > Feature: Feature_67 (Idx: 66)
+    Importance Score: 0.9834
+    Key Influencing Tokens:
+      - 'não' : -0.1074
+      - '拒絕' : -0.0769
+      - '不能' : -0.0766
+      - 'posso' : -0.0649
+      - 'think' : -0.0540
+
+  > Feature: Feature_523 (Idx: 522)
+    Importance Score: 0.9569
+    Key Influencing Tokens:
+      - '拒絕' : -0.1278
+      - '不能' : -0.0736
+      - '安全性' : 0.0605
+      - 'posso' : -0.0538
+      - 'ajudar' : 0.0482
+
+------------------------------
+[cluster_5]
+  Sampled Texts: 30
+  > Feature: Feature_405 (Idx: 404)
+    Importance Score: 1.3056
+    Key Influencing Tokens:
+      - '。' : 0.4605
+      - '不能' : 0.2792
+      - 'think' : 0.1994
+      - 't' : 0.1591
+      - '無法' : 0.1510
+
+  > Feature: Feature_539 (Idx: 538)
+    Importance Score: 1.2609
+    Key Influencing Tokens:
+      - '不能' : 0.2372
+      - 'think' : 0.1641
+      - '问题' : 0.1349
+      - 't' : 0.1348
+      - '如果你' : 0.1181
+
+  > Feature: Feature_181 (Idx: 180)
+    Importance Score: 1.1657
+    Key Influencing Tokens:
+      - '。' : 0.1984
+      - '或' : 0.1258
+      - '不能' : 0.1240
+      - '知识' : 0.1206
+      - '学会' : 0.1094
+
+------------------------------

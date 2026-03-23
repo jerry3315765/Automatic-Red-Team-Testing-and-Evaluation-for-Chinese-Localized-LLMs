@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# Secrets
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large optional artifacts (keep if needed)
+# Uncomment if you want a lighter repository snapshot:
+# results/raw_traces/
+# results/divi_combined/
+# external/PromptFuzz-Thesis/Logs/

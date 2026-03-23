@@ -1,0 +1,183 @@
+SHAP Analysis Report for Seed 1
+==================================================
+
+[cluster_0]
+  Sampled Texts: 30
+  > Feature: Feature_51 (Idx: 50)
+    Importance Score: 1.1295
+    Key Influencing Tokens:
+      - 'sorry' : 0.1358
+      - 'm' : 0.1271
+      - 'with' : -0.1228
+      - '’' : 0.0725
+      - ',' : 0.0663
+
+  > Feature: Feature_6 (Idx: 5)
+    Importance Score: 1.1043
+    Key Influencing Tokens:
+      - 'sorry' : 0.5489
+      - 't' : 0.3232
+      - 'can' : 0.2304
+      - 'I' : 0.2078
+      - '’' : 0.1953
+
+  > Feature: Feature_238 (Idx: 237)
+    Importance Score: 1.1016
+    Key Influencing Tokens:
+      - 'sorry' : -0.4446
+      - '’' : -0.4259
+      - 't' : -0.3958
+      - 'prompt' : -0.3842
+      - 'help' : 0.3040
+
+------------------------------
+[cluster_1]
+  Sampled Texts: 30
+  > Feature: Feature_660 (Idx: 659)
+    Importance Score: 0.9983
+    Key Influencing Tokens:
+      - '不能' : 0.0736
+      - 'think' : 0.0534
+      - '>' : 0.0426
+      - '。' : -0.0363
+      - '的信息' : 0.0333
+
+  > Feature: Feature_683 (Idx: 682)
+    Importance Score: 0.9947
+    Key Influencing Tokens:
+      - '，' : 0.1463
+      - '。' : 0.1210
+      - '和' : 0.0683
+      - '的' : 0.0562
+      - '安全' : 0.0425
+
+  > Feature: Feature_205 (Idx: 204)
+    Importance Score: 0.9928
+    Key Influencing Tokens:
+      - '。' : -0.0977
+      - '，' : -0.0470
+      - '安全' : -0.0356
+      - '和' : -0.0329
+      - 'think' : 0.0301
+
+------------------------------
+[cluster_2]
+  Sampled Texts: 30
+  > Feature: Feature_291 (Idx: 290)
+    Importance Score: 1.5528
+    Key Influencing Tokens:
+      - '，' : 0.1572
+      - '。' : 0.1066
+      - '：' : 0.0773
+      - '門' : 0.0745
+      - '的' : 0.0636
+
+  > Feature: Feature_29 (Idx: 28)
+    Importance Score: 1.3556
+    Key Influencing Tokens:
+      - '，' : 0.1593
+      - '。' : 0.0984
+      - '的' : 0.0644
+      - '車' : 0.0583
+      - '：' : 0.0581
+
+  > Feature: Feature_662 (Idx: 661)
+    Importance Score: 1.3511
+    Key Influencing Tokens:
+      - '，' : -0.0308
+      - '：' : -0.0228
+      - '車' : -0.0189
+      - '如果' : -0.0176
+      - '門' : -0.0150
+
+------------------------------
+[cluster_3]
+  Sampled Texts: 30
+  > Feature: Feature_369 (Idx: 368)
+    Importance Score: 0.8470
+    Key Influencing Tokens:
+      - '和' : 0.0200
+      - '的' : 0.0173
+      - '}' : -0.0155
+      - '包括' : 0.0155
+      - '{' : -0.0152
+
+  > Feature: Feature_472 (Idx: 471)
+    Importance Score: 0.8254
+    Key Influencing Tokens:
+      - '。' : 0.0696
+      - '，' : 0.0636
+      - '的' : 0.0345
+      - '{' : 0.0290
+      - '}' : 0.0286
+
+  > Feature: Feature_639 (Idx: 638)
+    Importance Score: 0.7743
+    Key Influencing Tokens:
+      - '，' : -0.1075
+      - '。' : -0.0620
+      - '的' : -0.0496
+      - 'SQL' : -0.0352
+      - 'AI' : -0.0336
+
+------------------------------
+[cluster_4]
+  Sampled Texts: 30
+  > Feature: Feature_14 (Idx: 13)
+    Importance Score: 1.2704
+    Key Influencing Tokens:
+      - '，' : 0.3096
+      - '拒絕' : -0.2976
+      - '拒' : -0.2080
+      - '。' : 0.1947
+      - '的' : 0.1928
+
+  > Feature: Feature_556 (Idx: 555)
+    Importance Score: 1.1560
+    Key Influencing Tokens:
+      - '拒絕' : 0.3000
+      - '拒' : 0.1798
+      - '這個' : 0.0287
+      - '不能' : 0.0260
+      - '。' : -0.0183
+
+  > Feature: Feature_406 (Idx: 405)
+    Importance Score: 1.0598
+    Key Influencing Tokens:
+      - '拒絕' : -0.0527
+      - '拒' : 0.0492
+      - '不得不' : 0.0421
+      - '不' : 0.0406
+      - '不能' : 0.0362
+
+------------------------------
+[cluster_5]
+  Sampled Texts: 30
+  > Feature: Feature_14 (Idx: 13)
+    Importance Score: 1.6234
+    Key Influencing Tokens:
+      - '，' : 0.3904
+      - '。' : 0.2937
+      - '的' : 0.2199
+      - '**' : 0.1270
+      - '和' : 0.1223
+
+  > Feature: Feature_616 (Idx: 615)
+    Importance Score: 1.2203
+    Key Influencing Tokens:
+      - 'think' : 0.0813
+      - '，' : 0.0662
+      - '的' : 0.0410
+      - '。' : 0.0387
+      - '**' : 0.0295
+
+  > Feature: Feature_685 (Idx: 684)
+    Importance Score: 1.1670
+    Key Influencing Tokens:
+      - '，' : 0.0925
+      - '。' : 0.0432
+      - '<' : 0.0339
+      - '的' : 0.0321
+      - '>' : 0.0310
+
+------------------------------

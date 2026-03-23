@@ -1,0 +1,3 @@
+Agreement: 54.0%
+Cohen's Kappa: 0.323
+Weighted Kappa (Linear): 0.400

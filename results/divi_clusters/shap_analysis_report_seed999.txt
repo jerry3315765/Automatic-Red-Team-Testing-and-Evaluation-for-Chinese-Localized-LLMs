@@ -1,0 +1,183 @@
+SHAP Analysis Report for Seed 999
+==================================================
+
+[cluster_0]
+  Sampled Texts: 30
+  > Feature: Feature_533 (Idx: 532)
+    Importance Score: 1.9057
+    Key Influencing Tokens:
+      - ':' : 0.3693
+      - 'template' : 0.2703
+      - 'ji' : 0.2539
+      - 'nja' : 0.2539
+      - 'Error' : 0.2298
+
+  > Feature: Feature_480 (Idx: 479)
+    Importance Score: 1.9051
+    Key Influencing Tokens:
+      - ':' : -0.2772
+      - 'template' : -0.2677
+      - '\' : -0.2488
+      - '"' : -0.2332
+      - 'Error' : -0.2329
+
+  > Feature: Feature_699 (Idx: 698)
+    Importance Score: 1.8917
+    Key Influencing Tokens:
+      - 'Error' : 0.6658
+      - '400' : 0.5675
+      - ':' : 0.4127
+      - '-' : 0.3727
+      - 'assistant' : 0.3469
+
+------------------------------
+[cluster_1]
+  Sampled Texts: 30
+  > Feature: Feature_345 (Idx: 344)
+    Importance Score: 1.9152
+    Key Influencing Tokens:
+      - 'I' : -1.3968
+      - 'that' : -1.1371
+      - 'sorry' : -0.9130
+      - 'm' : -0.8060
+      - 'but' : -0.7985
+
+  > Feature: Feature_138 (Idx: 137)
+    Importance Score: 1.8702
+    Key Influencing Tokens:
+      - 'sorry' : 1.1805
+      - 'that' : 0.4860
+      - '。' : 0.4111
+      - 't' : 0.4025
+      - 'but' : 0.3845
+
+  > Feature: Feature_6 (Idx: 5)
+    Importance Score: 1.8169
+    Key Influencing Tokens:
+      - 'sorry' : 0.8982
+      - 't' : 0.5335
+      - 'can' : 0.3536
+      - 'I' : 0.3400
+      - '’' : 0.3196
+
+------------------------------
+[cluster_2]
+  Sampled Texts: 30
+  > Feature: Feature_342 (Idx: 341)
+    Importance Score: 1.1113
+    Key Influencing Tokens:
+      - '。' : -0.2093
+      - '，' : -0.1727
+      - 'think' : -0.1593
+      - '安全' : -0.1250
+      - '>' : -0.0952
+
+  > Feature: Feature_29 (Idx: 28)
+    Importance Score: 1.0779
+    Key Influencing Tokens:
+      - '，' : 0.1865
+      - '。' : 0.1333
+      - '安全' : 0.1028
+      - '和' : 0.0519
+      - '的' : 0.0467
+
+  > Feature: Feature_341 (Idx: 340)
+    Importance Score: 1.0333
+    Key Influencing Tokens:
+      - '。' : 0.1581
+      - '，' : 0.1478
+      - 'think' : 0.0527
+      - '安全' : 0.0451
+      - '>' : 0.0411
+
+------------------------------
+[cluster_3]
+  Sampled Texts: 30
+  > Feature: Feature_369 (Idx: 368)
+    Importance Score: 0.8196
+    Key Influencing Tokens:
+      - '，' : -0.0352
+      - '入侵' : 0.0158
+      - '網路' : 0.0147
+      - '道德' : 0.0139
+      - 'Python' : -0.0135
+
+  > Feature: Feature_639 (Idx: 638)
+    Importance Score: 0.7907
+    Key Influencing Tokens:
+      - '，' : -0.0925
+      - '。' : -0.0617
+      - 'AI' : -0.0426
+      - '的' : -0.0416
+      - '和' : -0.0152
+
+  > Feature: Feature_599 (Idx: 598)
+    Importance Score: 0.7615
+    Key Influencing Tokens:
+      - '。' : 0.1692
+      - '，' : 0.1670
+      - '的' : 0.0800
+      - '和' : 0.0433
+      - '合法' : 0.0293
+
+------------------------------
+[cluster_4]
+  Sampled Texts: 30
+  > Feature: Feature_49 (Idx: 48)
+    Importance Score: 0.8757
+    Key Influencing Tokens:
+      - '不能' : -0.1383
+      - '，' : 0.1072
+      - 'Air' : 0.1018
+      - '攻擊' : 0.0590
+      - '如何' : 0.0585
+
+  > Feature: Feature_594 (Idx: 593)
+    Importance Score: 0.8544
+    Key Influencing Tokens:
+      - '不能' : -0.1553
+      - '的' : 0.0785
+      - '，' : 0.0620
+      - '我' : 0.0558
+      - '。' : 0.0551
+
+  > Feature: Feature_14 (Idx: 13)
+    Importance Score: 0.7431
+    Key Influencing Tokens:
+      - '不能' : -0.1726
+      - '。' : 0.1428
+      - '，' : 0.1365
+      - '的' : 0.1083
+      - '我' : -0.0997
+
+------------------------------
+[cluster_5]
+  Sampled Texts: 30
+  > Feature: Feature_671 (Idx: 670)
+    Importance Score: 0.9101
+    Key Influencing Tokens:
+      - '不能' : -0.2849
+      - '拒絕' : -0.1473
+      - 'I' : 0.0886
+      - '，' : 0.0830
+      - '無法' : -0.0719
+
+  > Feature: Feature_196 (Idx: 195)
+    Importance Score: 0.8753
+    Key Influencing Tokens:
+      - '不能' : 0.3302
+      - 'I' : -0.1370
+      - '。' : 0.1300
+      - '提供' : 0.1253
+      - 'you' : 0.0932
+
+  > Feature: Feature_431 (Idx: 430)
+    Importance Score: 0.8606
+    Key Influencing Tokens:
+      - 'you' : 0.0848
+      - '，' : -0.0625
+      - '的信息' : 0.0542
+      - '拒絕' : -0.0509
+      - 'I' : 0.0427
+
+------------------------------

@@ -1,0 +1,5 @@
+-r requirements.thesis-experiment.txt
+-r external/PromptFuzz-Thesis/requirements.txt
+
+# Install local GPTFuzz package in editable mode (optional but recommended)
+-e external/GPTFuzz

@@ -1,0 +1,48 @@
+models:
+  - name: "gemma-3-taide-12b-chat"
+    type: "local"
+    path: "gemma-3-taide-12b-chat"
+    quantization: "Q8"
+    lm_studio_url: "http://localhost:1234"
+
+  - name: "llama-breeze2-8b-instruct-text"
+    type: "local"
+    path: "llama-breeze2-8b-instruct-text"
+    quantization: "Q8"
+    lm_studio_url: "http://localhost:1234"
+
+  - name: "qwen3-8b"
+    type: "local"
+    path: "qwen/qwen3-8b"
+    quantization: "Q8"
+    lm_studio_url: "http://localhost:1234"
+
+  - name: "gemma-3-4b"
+    type: "local"
+    path: "google/gemma-3-4b"
+    quantization: "Q8"
+    lm_studio_url: "http://localhost:1234"
+
+  - name: "llama-3.2-3b-instruct"
+    type: "local"
+    path: "llama-3.2-3b-instruct"
+    quantization: "Q8"
+    lm_studio_url: "http://localhost:1234"
+
+  - name: "gpt-oss-20b"
+    type: "local"
+    path: "openai/gpt-oss-20b"
+    quantization: "MXFP4"
+    lm_studio_url: "http://localhost:1234"
+
+  - name: "deepseek-r1-distill-llama-8b@Q8_0"
+    type: "local"
+    path: "deepseek-r1-distill-llama-8b@q8_0"
+    quantization: "Q8"
+    lm_studio_url: "http://localhost:1234"
+
+  - name: "oreal-deepseek-r1-distill-qwen-7b@Q8_0"
+    type: "local"
+    path: "oreal-deepseek-r1-distill-qwen-7b"
+    quantization: "Q8"
+    lm_studio_url: "http://localhost:1234"

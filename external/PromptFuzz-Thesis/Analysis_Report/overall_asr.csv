@@ -1,0 +1,10 @@
+Model,Total_Prompts,Prompts_with_at_least_one_break,Total_Attempts,Total_Successes,Prompt_ASR_ESR,True_ASR
+deepseek-r1-distill-llama-8b@Q8_0,58,58,812,543,100.0,66.87192118226602
+gemma-3-4b,36,36,504,257,100.0,50.99206349206349
+gemma-3-taide-12b-chat,215,215,3010,3010,100.0,100.0
+gpt-oss-20b,5,3,70,8,60.0,11.428571428571429
+llama-3.2-3b-instruct,41,41,574,237,100.0,41.289198606271775
+llama-breeze2-8b-instruct-text,48,48,672,322,100.0,47.91666666666667
+llama3-taide-lx-8b-chat,50,50,700,376,100.0,53.714285714285715
+oreal-deepseek-r1-distill-qwen-7b@Q8_0,62,62,868,487,100.0,56.10599078341014
+qwen3-8b,30,29,420,95,96.66666666666667,22.61904761904762

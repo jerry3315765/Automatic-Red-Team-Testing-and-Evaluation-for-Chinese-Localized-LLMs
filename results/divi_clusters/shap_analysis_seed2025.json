@@ -1,0 +1,526 @@
+{
+  "metadata": {
+    "seed": 2025,
+    "total_samples": 5200,
+    "total_features": 768,
+    "num_clusters": 6
+  },
+  "shap_analysis": {
+    "cluster_0": {
+      "sampled_texts_count": 30,
+      "features": [
+        {
+          "feature_index": 588,
+          "feature_name": "Feature_589",
+          "importance_score": 1.365406828144053,
+          "top_shap_tokens": [
+            {
+              "token": "’",
+              "impact": -0.3515184941716143
+            },
+            {
+              "token": "I",
+              "impact": -0.32096116310640355
+            },
+            {
+              "token": "help",
+              "impact": -0.26091952095157467
+            },
+            {
+              "token": "sorry",
+              "impact": -0.2502873388584703
+            },
+            {
+              "token": "can",
+              "impact": -0.21917405107796994
+            }
+          ]
+        },
+        {
+          "feature_index": 704,
+          "feature_name": "Feature_705",
+          "importance_score": 1.3063268252451627,
+          "top_shap_tokens": [
+            {
+              "token": "template",
+              "impact": 0.9324975783406053
+            },
+            {
+              "token": ":",
+              "impact": 0.7220737815643787
+            },
+            {
+              "token": "sorry",
+              "impact": 0.7144987065112218
+            },
+            {
+              "token": "can",
+              "impact": 0.5951924407276226
+            },
+            {
+              "token": "t",
+              "impact": 0.5749022249801783
+            }
+          ]
+        },
+        {
+          "feature_index": 237,
+          "feature_name": "Feature_238",
+          "importance_score": 1.2894682216123388,
+          "top_shap_tokens": [
+            {
+              "token": "prompt",
+              "impact": -0.640361580139777
+            },
+            {
+              "token": "ji",
+              "impact": -0.4727743022933628
+            },
+            {
+              "token": "nja",
+              "impact": -0.4727743022933628
+            },
+            {
+              "token": "sorry",
+              "impact": -0.4042014590231702
+            },
+            {
+              "token": "’",
+              "impact": -0.3871869085924118
+            }
+          ]
+        }
+      ]
+    },
+    "cluster_1": {
+      "sampled_texts_count": 30,
+      "features": [
+        {
+          "feature_index": 341,
+          "feature_name": "Feature_342",
+          "importance_score": 1.10216245272093,
+          "top_shap_tokens": [
+            {
+              "token": "。",
+              "impact": -0.1900859206077997
+            },
+            {
+              "token": "，",
+              "impact": -0.1700008980478637
+            },
+            {
+              "token": "安全",
+              "impact": -0.1121262195841142
+            },
+            {
+              "token": "think",
+              "impact": -0.09113492179340223
+            },
+            {
+              "token": ">",
+              "impact": -0.07028524492919626
+            }
+          ]
+        },
+        {
+          "feature_index": 28,
+          "feature_name": "Feature_29",
+          "importance_score": 1.0782068610532298,
+          "top_shap_tokens": [
+            {
+              "token": "，",
+              "impact": 0.1730262501722788
+            },
+            {
+              "token": "。",
+              "impact": 0.10175260891234371
+            },
+            {
+              "token": "安全",
+              "impact": 0.0907847539586015
+            },
+            {
+              "token": "的",
+              "impact": 0.04314578782212502
+            },
+            {
+              "token": "和",
+              "impact": 0.037883048041755976
+            }
+          ]
+        },
+        {
+          "feature_index": 340,
+          "feature_name": "Feature_341",
+          "importance_score": 1.0315908619096277,
+          "top_shap_tokens": [
+            {
+              "token": "，",
+              "impact": 0.13053322186857577
+            },
+            {
+              "token": "。",
+              "impact": 0.12824421262148616
+            },
+            {
+              "token": "安全",
+              "impact": 0.03778591401282409
+            },
+            {
+              "token": "的",
+              "impact": 0.03759539508205663
+            },
+            {
+              "token": "think",
+              "impact": 0.03133465228749678
+            }
+          ]
+        }
+      ]
+    },
+    "cluster_2": {
+      "sampled_texts_count": 30,
+      "features": [
+        {
+          "feature_index": 598,
+          "feature_name": "Feature_599",
+          "importance_score": 0.8932043408093495,
+          "top_shap_tokens": [
+            {
+              "token": "，",
+              "impact": 0.15749222644831118
+            },
+            {
+              "token": "。",
+              "impact": 0.13332055659298686
+            },
+            {
+              "token": "的",
+              "impact": 0.08776154352482184
+            },
+            {
+              "token": "和",
+              "impact": 0.04361906473173444
+            },
+            {
+              "token": "**",
+              "impact": 0.04263527437405602
+            }
+          ]
+        },
+        {
+          "feature_index": 368,
+          "feature_name": "Feature_369",
+          "importance_score": 0.7891750884975545,
+          "top_shap_tokens": [
+            {
+              "token": "。",
+              "impact": -0.039898571110421534
+            },
+            {
+              "token": "，",
+              "impact": -0.030765620746005848
+            },
+            {
+              "token": "网络安全",
+              "impact": 0.025294467455674385
+            },
+            {
+              "token": ">",
+              "impact": -0.02107568941509971
+            },
+            {
+              "token": "<",
+              "impact": -0.015164631780067366
+            }
+          ]
+        },
+        {
+          "feature_index": 380,
+          "feature_name": "Feature_381",
+          "importance_score": 0.7783493534423688,
+          "top_shap_tokens": [
+            {
+              "token": "，",
+              "impact": 0.17196701430365827
+            },
+            {
+              "token": "。",
+              "impact": 0.10352844525676756
+            },
+            {
+              "token": "的",
+              "impact": 0.08405460625310078
+            },
+            {
+              "token": "和",
+              "impact": 0.04011237520340858
+            },
+            {
+              "token": "**",
+              "impact": 0.032965620240215814
+            }
+          ]
+        }
+      ]
+    },
+    "cluster_3": {
+      "sampled_texts_count": 30,
+      "features": [
+        {
+          "feature_index": 273,
+          "feature_name": "Feature_274",
+          "importance_score": 1.6942434840662328,
+          "top_shap_tokens": [
+            {
+              "token": "time",
+              "impact": 0.25241111466585014
+            },
+            {
+              "token": "host",
+              "impact": 0.13880501604904794
+            },
+            {
+              "token": "Connect",
+              "impact": 0.12557959385867434
+            },
+            {
+              "token": "out",
+              "impact": 0.10632296327017661
+            },
+            {
+              "token": "=1",
+              "impact": 0.08559350959694711
+            }
+          ]
+        },
+        {
+          "feature_index": 597,
+          "feature_name": "Feature_598",
+          "importance_score": 1.6571933225813507,
+          "top_shap_tokens": [
+            {
+              "token": "Connect",
+              "impact": 0.21710647619329393
+            },
+            {
+              "token": "LM",
+              "impact": 0.16574838916615892
+            },
+            {
+              "token": "=",
+              "impact": 0.14116744660035088
+            },
+            {
+              "token": "Studio",
+              "impact": 0.13445147417951375
+            },
+            {
+              "token": "Error",
+              "impact": 0.10903690733539406
+            }
+          ]
+        },
+        {
+          "feature_index": 216,
+          "feature_name": "Feature_217",
+          "importance_score": 1.6391431147327926,
+          "top_shap_tokens": [
+            {
+              "token": "out",
+              "impact": -0.17184770293746016
+            },
+            {
+              "token": "local",
+              "impact": -0.15850897476229875
+            },
+            {
+              "token": "time",
+              "impact": -0.1374776930559468
+            },
+            {
+              "token": "Studio",
+              "impact": -0.13626437882589926
+            },
+            {
+              "token": "Error",
+              "impact": -0.11517475974210356
+            }
+          ]
+        }
+      ]
+    },
+    "cluster_4": {
+      "sampled_texts_count": 30,
+      "features": [
+        {
+          "feature_index": 357,
+          "feature_name": "Feature_358",
+          "importance_score": 0.9888786064219316,
+          "top_shap_tokens": [
+            {
+              "token": "拒絕",
+              "impact": 0.3297986462712288
+            },
+            {
+              "token": "拒",
+              "impact": 0.14311624318361282
+            },
+            {
+              "token": "安全性",
+              "impact": -0.10710784880211577
+            },
+            {
+              "token": "posso",
+              "impact": 0.07234834968221548
+            },
+            {
+              "token": "我",
+              "impact": 0.043032900677735166
+            }
+          ]
+        },
+        {
+          "feature_index": 66,
+          "feature_name": "Feature_67",
+          "importance_score": 0.983429726509051,
+          "top_shap_tokens": [
+            {
+              "token": "não",
+              "impact": -0.10741137713193893
+            },
+            {
+              "token": "拒絕",
+              "impact": -0.07694748044013977
+            },
+            {
+              "token": "不能",
+              "impact": -0.07658353139231622
+            },
+            {
+              "token": "posso",
+              "impact": -0.06490524485707283
+            },
+            {
+              "token": "think",
+              "impact": -0.054004650753215915
+            }
+          ]
+        },
+        {
+          "feature_index": 522,
+          "feature_name": "Feature_523",
+          "importance_score": 0.9569197643086248,
+          "top_shap_tokens": [
+            {
+              "token": "拒絕",
+              "impact": -0.1278253048658371
+            },
+            {
+              "token": "不能",
+              "impact": -0.07357104213406274
+            },
+            {
+              "token": "安全性",
+              "impact": 0.060486891961772926
+            },
+            {
+              "token": "posso",
+              "impact": -0.05384658230468631
+            },
+            {
+              "token": "ajudar",
+              "impact": 0.04824372078292072
+            }
+          ]
+        }
+      ]
+    },
+    "cluster_5": {
+      "sampled_texts_count": 30,
+      "features": [
+        {
+          "feature_index": 404,
+          "feature_name": "Feature_405",
+          "importance_score": 1.3055641916430984,
+          "top_shap_tokens": [
+            {
+              "token": "。",
+              "impact": 0.4605091938619731
+            },
+            {
+              "token": "不能",
+              "impact": 0.27924856891390837
+            },
+            {
+              "token": "think",
+              "impact": 0.19939262291561263
+            },
+            {
+              "token": "t",
+              "impact": 0.15906522030191636
+            },
+            {
+              "token": "無法",
+              "impact": 0.1509959720342964
+            }
+          ]
+        },
+        {
+          "feature_index": 538,
+          "feature_name": "Feature_539",
+          "importance_score": 1.2609094256884283,
+          "top_shap_tokens": [
+            {
+              "token": "不能",
+              "impact": 0.23718775370597456
+            },
+            {
+              "token": "think",
+              "impact": 0.16412239641156456
+            },
+            {
+              "token": "问题",
+              "impact": 0.13494411562139108
+            },
+            {
+              "token": "t",
+              "impact": 0.13476125793169852
+            },
+            {
+              "token": "如果你",
+              "impact": 0.11806366359451204
+            }
+          ]
+        },
+        {
+          "feature_index": 180,
+          "feature_name": "Feature_181",
+          "importance_score": 1.1657027373289788,
+          "top_shap_tokens": [
+            {
+              "token": "。",
+              "impact": 0.19840430460688693
+            },
+            {
+              "token": "或",
+              "impact": 0.12581020712838684
+            },
+            {
+              "token": "不能",
+              "impact": 0.12403483520804301
+            },
+            {
+              "token": "知识",
+              "impact": 0.12064187824762485
+            },
+            {
+              "token": "学会",
+              "impact": 0.10942069193697535
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

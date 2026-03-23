@@ -1,0 +1,123 @@
+SHAP Analysis Report for Seed 42
+==================================================
+
+[cluster_0]
+  Sampled Texts: 30
+  > Feature: Feature_193 (Idx: 192)
+    Importance Score: 1.2887
+    Key Influencing Tokens:
+      - 'help' : -0.5726
+      - 'prompt' : -0.3570
+      - 'host' : -0.3265
+      - 't' : 0.2828
+      - 'ji' : -0.2364
+
+  > Feature: Feature_699 (Idx: 698)
+    Importance Score: 1.2782
+    Key Influencing Tokens:
+      - 'sorry' : 0.5941
+      - 'Error' : 0.4901
+      - 'I' : 0.4089
+      - 'can' : -0.4009
+      - '400' : 0.3701
+
+  > Feature: Feature_560 (Idx: 559)
+    Importance Score: 1.2779
+    Key Influencing Tokens:
+      - 'Error' : -0.6182
+      - 'sorry' : -0.6028
+      - 'host' : -0.5073
+      - 't' : -0.4894
+      - ':' : -0.4753
+
+------------------------------
+[cluster_1]
+  Sampled Texts: 30
+  > Feature: Feature_21 (Idx: 20)
+    Importance Score: 1.5655
+    Key Influencing Tokens:
+      - '不能' : -0.6271
+      - '。' : -0.4183
+      - '我' : -0.2934
+      - '無法' : -0.1550
+      - '的信息' : -0.1250
+
+  > Feature: Feature_20 (Idx: 19)
+    Importance Score: 1.5291
+    Key Influencing Tokens:
+      - '不能' : -0.5550
+      - '。' : -0.3116
+      - 'think' : 0.1847
+      - '拒絕' : -0.1575
+      - '我' : -0.1541
+
+  > Feature: Feature_539 (Idx: 538)
+    Importance Score: 1.5135
+    Key Influencing Tokens:
+      - '不能' : 0.6849
+      - 'think' : 0.1912
+      - '问题' : 0.1607
+      - '如果你' : 0.1490
+      - '其他' : 0.1453
+
+------------------------------
+[cluster_2]
+  Sampled Texts: 30
+  > Feature: Feature_342 (Idx: 341)
+    Importance Score: 1.1018
+    Key Influencing Tokens:
+      - '。' : -0.1718
+      - '，' : -0.1675
+      - 'think' : -0.1006
+      - '的' : -0.0802
+      - '安全' : -0.0635
+
+  > Feature: Feature_29 (Idx: 28)
+    Importance Score: 1.0764
+    Key Influencing Tokens:
+      - '，' : 0.1463
+      - '。' : 0.1073
+      - '的' : 0.0547
+      - '安全' : 0.0477
+      - '在' : 0.0397
+
+  > Feature: Feature_341 (Idx: 340)
+    Importance Score: 1.0279
+    Key Influencing Tokens:
+      - '，' : 0.1245
+      - '。' : 0.1234
+      - '的' : 0.0496
+      - '在' : 0.0362
+      - '紧急' : 0.0349
+
+------------------------------
+[cluster_3]
+  Sampled Texts: 30
+  > Feature: Feature_198 (Idx: 197)
+    Importance Score: 0.7437
+    Key Influencing Tokens:
+      - '。' : 0.0900
+      - '的' : 0.0354
+      - '400' : -0.0330
+      - '金融' : 0.0321
+      - 'AI' : -0.0315
+
+  > Feature: Feature_705 (Idx: 704)
+    Importance Score: 0.6573
+    Key Influencing Tokens:
+      - '，' : -0.1845
+      - '。' : -0.1367
+      - '的' : -0.1330
+      - '**' : -0.0677
+      - '和' : -0.0608
+
+  > Feature: Feature_384 (Idx: 383)
+    Importance Score: 0.6414
+    Key Influencing Tokens:
+      - '。' : -0.0680
+      - '，' : -0.0468
+      - '的' : -0.0308
+      - 'OR' : -0.0164
+      - '**' : -0.0157
+
+------------------------------

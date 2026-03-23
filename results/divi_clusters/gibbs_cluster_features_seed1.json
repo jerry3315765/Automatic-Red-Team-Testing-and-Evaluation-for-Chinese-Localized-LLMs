@@ -1,0 +1,1132 @@
+{
+  "metadata": {
+    "seed": 1,
+    "total_samples": 5200,
+    "total_features": 768,
+    "num_clusters": 6
+  },
+  "clusters": {
+    "cluster_0": {
+      "size": 1417,
+      "percentage": 27.250000000000004,
+      "avg_membership_prob": 1.0,
+      "top_features": [
+        {
+          "rank": 1,
+          "feature_id": 51,
+          "feature_name": "Feature_51",
+          "importance_score": 1.1295412803971632,
+          "phi_weight": 0.9521682262420654,
+          "cluster_mean": 1.1862833155598336,
+          "cluster_std": 0.29571577045109265
+        },
+        {
+          "rank": 2,
+          "feature_id": 6,
+          "feature_name": "Feature_6",
+          "importance_score": 1.104307702691649,
+          "phi_weight": 0.942552924156189,
+          "cluster_mean": 1.1716134705966452,
+          "cluster_std": 0.7243485449609157
+        },
+        {
+          "rank": 3,
+          "feature_id": 238,
+          "feature_name": "Feature_238",
+          "importance_score": 1.1016478827709903,
+          "phi_weight": 0.946861207485199,
+          "cluster_mean": -1.1634734574213834,
+          "cluster_std": 0.7012842533445881
+        },
+        {
+          "rank": 4,
+          "feature_id": 699,
+          "feature_name": "Feature_699",
+          "importance_score": 1.0927043834493981,
+          "phi_weight": 0.9454806447029114,
+          "cluster_mean": 1.155713117525264,
+          "cluster_std": 0.8908343340838014
+        },
+        {
+          "rank": 5,
+          "feature_id": 369,
+          "feature_name": "Feature_369",
+          "importance_score": 1.087086502553751,
+          "phi_weight": 0.9469742178916931,
+          "cluster_mean": -1.1479578662384269,
+          "cluster_std": 0.34696480919676864
+        },
+        {
+          "rank": 6,
+          "feature_id": 480,
+          "feature_name": "Feature_480",
+          "importance_score": 1.0592270812467066,
+          "phi_weight": 0.9413986206054688,
+          "cluster_mean": -1.125163196612138,
+          "cluster_std": 0.9928925047116048
+        },
+        {
+          "rank": 7,
+          "feature_id": 498,
+          "feature_name": "Feature_498",
+          "importance_score": 1.0273541981195788,
+          "phi_weight": 0.9474243521690369,
+          "cluster_mean": -1.084365412148791,
+          "cluster_std": 0.454237831203875
+        },
+        {
+          "rank": 8,
+          "feature_id": 722,
+          "feature_name": "Feature_722",
+          "importance_score": 1.0256275342068415,
+          "phi_weight": 0.9482558369636536,
+          "cluster_mean": 1.0815936946836358,
+          "cluster_std": 0.5234441587338465
+        },
+        {
+          "rank": 9,
+          "feature_id": 173,
+          "feature_name": "Feature_173",
+          "importance_score": 1.0227688674735926,
+          "phi_weight": 0.9465194344520569,
+          "cluster_mean": 1.0805577046240755,
+          "cluster_std": 0.6938406892980559
+        },
+        {
+          "rank": 10,
+          "feature_id": 360,
+          "feature_name": "Feature_360",
+          "importance_score": 1.010044049135811,
+          "phi_weight": 0.9348563551902771,
+          "cluster_mean": -1.080427001996719,
+          "cluster_std": 0.4202402423825958
+        },
+        {
+          "rank": 11,
+          "feature_id": 435,
+          "feature_name": "Feature_435",
+          "importance_score": 1.0096663990186783,
+          "phi_weight": 0.9428784847259521,
+          "cluster_mean": 1.070834063322739,
+          "cluster_std": 0.6829635015130099
+        },
+        {
+          "rank": 12,
+          "feature_id": 589,
+          "feature_name": "Feature_589",
+          "importance_score": 0.9862882182265026,
+          "phi_weight": 0.9207427501678467,
+          "cluster_mean": -1.0711876015822088,
+          "cluster_std": 0.7263601673250356
+        },
+        {
+          "rank": 13,
+          "feature_id": 383,
+          "feature_name": "Feature_383",
+          "importance_score": 0.9833487530495469,
+          "phi_weight": 0.9417577385902405,
+          "cluster_mean": -1.044163177805755,
+          "cluster_std": 0.9260607757610162
+        },
+        {
+          "rank": 14,
+          "feature_id": 146,
+          "feature_name": "Feature_146",
+          "importance_score": 0.979883005000685,
+          "phi_weight": 0.9468276500701904,
+          "cluster_mean": 1.0349116916136154,
+          "cluster_std": 0.2727980512619838
+        },
+        {
+          "rank": 15,
+          "feature_id": 606,
+          "feature_name": "Feature_606",
+          "importance_score": 0.9787196138402291,
+          "phi_weight": 0.9440908432006836,
+          "cluster_mean": 1.036679489997113,
+          "cluster_std": 0.4287336141586063
+        },
+        {
+          "rank": 16,
+          "feature_id": 625,
+          "feature_name": "Feature_625",
+          "importance_score": 0.9784106081353218,
+          "phi_weight": 0.9389479756355286,
+          "cluster_mean": -1.0420285612449218,
+          "cluster_std": 0.239361033759988
+        },
+        {
+          "rank": 17,
+          "feature_id": 193,
+          "feature_name": "Feature_193",
+          "importance_score": 0.9719054999287957,
+          "phi_weight": 0.9332020282745361,
+          "cluster_mean": -1.0414738400492134,
+          "cluster_std": 0.868026090094142
+        },
+        {
+          "rank": 18,
+          "feature_id": 82,
+          "feature_name": "Feature_82",
+          "importance_score": 0.9716707588709467,
+          "phi_weight": 0.9315659403800964,
+          "cluster_mean": -1.0430509712221625,
+          "cluster_std": 0.7915365132711321
+        },
+        {
+          "rank": 19,
+          "feature_id": 715,
+          "feature_name": "Feature_715",
+          "importance_score": 0.9705521574749563,
+          "phi_weight": 0.942318856716156,
+          "cluster_mean": 1.0299615152106678,
+          "cluster_std": 0.6681860413779759
+        },
+        {
+          "rank": 20,
+          "feature_id": 374,
+          "feature_name": "Feature_374",
+          "importance_score": 0.9696521060862782,
+          "phi_weight": 0.942064642906189,
+          "cluster_mean": 1.0292840447710512,
+          "cluster_std": 0.5804338215834322
+        }
+      ]
+    },
+    "cluster_1": {
+      "size": 1114,
+      "percentage": 21.423076923076923,
+      "avg_membership_prob": 0.9992597103118896,
+      "top_features": [
+        {
+          "rank": 1,
+          "feature_id": 660,
+          "feature_name": "Feature_660",
+          "importance_score": 0.9982540298871295,
+          "phi_weight": 0.9022773504257202,
+          "cluster_mean": -1.1063715934087504,
+          "cluster_std": 0.8677966274782637
+        },
+        {
+          "rank": 2,
+          "feature_id": 683,
+          "feature_name": "Feature_683",
+          "importance_score": 0.9947164493598821,
+          "phi_weight": 0.9135076403617859,
+          "cluster_mean": 1.0888977884913302,
+          "cluster_std": 0.6161056055695394
+        },
+        {
+          "rank": 3,
+          "feature_id": 205,
+          "feature_name": "Feature_205",
+          "importance_score": 0.9928489814482687,
+          "phi_weight": 0.9037031531333923,
+          "cluster_mean": -1.0986450340532539,
+          "cluster_std": 0.7396095337641729
+        },
+        {
+          "rank": 4,
+          "feature_id": 623,
+          "feature_name": "Feature_623",
+          "importance_score": 0.9270210576211001,
+          "phi_weight": 0.8445860743522644,
+          "cluster_mean": -1.0976040048162732,
+          "cluster_std": 0.6585948192359162
+        },
+        {
+          "rank": 5,
+          "feature_id": 376,
+          "feature_name": "Feature_376",
+          "importance_score": 0.8952498589221093,
+          "phi_weight": 0.9106954336166382,
+          "cluster_mean": 0.983039802194692,
+          "cluster_std": 0.7913025955862781
+        },
+        {
+          "rank": 6,
+          "feature_id": 364,
+          "feature_name": "Feature_364",
+          "importance_score": 0.8837044884367042,
+          "phi_weight": 0.9368183612823486,
+          "cluster_mean": -0.9433039796818881,
+          "cluster_std": 0.8809912088476145
+        },
+        {
+          "rank": 7,
+          "feature_id": 765,
+          "feature_name": "Feature_765",
+          "importance_score": 0.8809067883486111,
+          "phi_weight": 0.9041045904159546,
+          "cluster_mean": -0.9743416831268705,
+          "cluster_std": 0.8443073510722755
+        },
+        {
+          "rank": 8,
+          "feature_id": 255,
+          "feature_name": "Feature_255",
+          "importance_score": 0.863335558261865,
+          "phi_weight": 0.9304632544517517,
+          "cluster_mean": -0.9278556182968883,
+          "cluster_std": 0.7562491285071296
+        },
+        {
+          "rank": 9,
+          "feature_id": 123,
+          "feature_name": "Feature_123",
+          "importance_score": 0.8449721830983091,
+          "phi_weight": 0.9263173937797546,
+          "cluster_mean": -0.9121842996496873,
+          "cluster_std": 0.9591865043892467
+        },
+        {
+          "rank": 10,
+          "feature_id": 542,
+          "feature_name": "Feature_542",
+          "importance_score": 0.8294160746664463,
+          "phi_weight": 0.8565834164619446,
+          "cluster_mean": -0.9682840675252493,
+          "cluster_std": 0.7774687832685675
+        },
+        {
+          "rank": 11,
+          "feature_id": 581,
+          "feature_name": "Feature_581",
+          "importance_score": 0.8267219814257976,
+          "phi_weight": 0.849830687046051,
+          "cluster_mean": 0.9728078710589075,
+          "cluster_std": 0.8105709002102587
+        },
+        {
+          "rank": 12,
+          "feature_id": 761,
+          "feature_name": "Feature_761",
+          "importance_score": 0.8204235738820642,
+          "phi_weight": 0.8202550411224365,
+          "cluster_mean": -1.0002054638510933,
+          "cluster_std": 0.8740313876922827
+        },
+        {
+          "rank": 13,
+          "feature_id": 242,
+          "feature_name": "Feature_242",
+          "importance_score": 0.8129416816754444,
+          "phi_weight": 0.9391700625419617,
+          "cluster_mean": -0.8655958213522406,
+          "cluster_std": 0.8078946472049922
+        },
+        {
+          "rank": 14,
+          "feature_id": 40,
+          "feature_name": "Feature_40",
+          "importance_score": 0.8014276631292295,
+          "phi_weight": 0.6851314902305603,
+          "cluster_mean": -1.1697428516379145,
+          "cluster_std": 0.724003355203234
+        },
+        {
+          "rank": 15,
+          "feature_id": 501,
+          "feature_name": "Feature_501",
+          "importance_score": 0.7936826338728943,
+          "phi_weight": 0.8976403474807739,
+          "cluster_mean": 0.8841877886843692,
+          "cluster_std": 1.0505982953091244
+        },
+        {
+          "rank": 16,
+          "feature_id": 651,
+          "feature_name": "Feature_651",
+          "importance_score": 0.7776839804458893,
+          "phi_weight": 0.9280579090118408,
+          "cluster_mean": 0.8379692397362749,
+          "cluster_std": 1.038174777755674
+        },
+        {
+          "rank": 17,
+          "feature_id": 63,
+          "feature_name": "Feature_63",
+          "importance_score": 0.7743282824542728,
+          "phi_weight": 0.8888694047927856,
+          "cluster_mean": -0.8711384127736798,
+          "cluster_std": 0.8590435176967293
+        },
+        {
+          "rank": 18,
+          "feature_id": 390,
+          "feature_name": "Feature_390",
+          "importance_score": 0.7643783446992849,
+          "phi_weight": 0.9387449622154236,
+          "cluster_mean": 0.8142556023899865,
+          "cluster_std": 0.7357226420827625
+        },
+        {
+          "rank": 19,
+          "feature_id": 677,
+          "feature_name": "Feature_677",
+          "importance_score": 0.7588741281860989,
+          "phi_weight": 0.9069523215293884,
+          "cluster_mean": 0.8367299031843415,
+          "cluster_std": 0.6249218460038907
+        },
+        {
+          "rank": 20,
+          "feature_id": 716,
+          "feature_name": "Feature_716",
+          "importance_score": 0.7567047257347577,
+          "phi_weight": 0.926293671131134,
+          "cluster_mean": 0.8169166532366733,
+          "cluster_std": 0.6870228298225217
+        }
+      ]
+    },
+    "cluster_2": {
+      "size": 731,
+      "percentage": 14.057692307692307,
+      "avg_membership_prob": 0.9996688365936279,
+      "top_features": [
+        {
+          "rank": 1,
+          "feature_id": 291,
+          "feature_name": "Feature_291",
+          "importance_score": 1.5527817940921178,
+          "phi_weight": 0.9187163710594177,
+          "cluster_mean": 1.69016449799575,
+          "cluster_std": 0.6079880707340467
+        },
+        {
+          "rank": 2,
+          "feature_id": 29,
+          "feature_name": "Feature_29",
+          "importance_score": 1.3555876546011534,
+          "phi_weight": 0.929338276386261,
+          "cluster_mean": 1.4586590147479628,
+          "cluster_std": 0.6327139633508306
+        },
+        {
+          "rank": 3,
+          "feature_id": 662,
+          "feature_name": "Feature_662",
+          "importance_score": 1.3511436027215322,
+          "phi_weight": 0.926323413848877,
+          "cluster_mean": -1.458608929150917,
+          "cluster_std": 0.735466842238411
+        },
+        {
+          "rank": 4,
+          "feature_id": 341,
+          "feature_name": "Feature_341",
+          "importance_score": 1.3104602672722896,
+          "phi_weight": 0.9183773994445801,
+          "cluster_mean": 1.426930005099031,
+          "cluster_std": 0.7399788816102101
+        },
+        {
+          "rank": 5,
+          "feature_id": 111,
+          "feature_name": "Feature_111",
+          "importance_score": 1.2433747442649195,
+          "phi_weight": 0.7884848713874817,
+          "cluster_mean": -1.5769164246321896,
+          "cluster_std": 0.6273690691813592
+        },
+        {
+          "rank": 6,
+          "feature_id": 119,
+          "feature_name": "Feature_119",
+          "importance_score": 1.2220545377860592,
+          "phi_weight": 0.8971571922302246,
+          "cluster_mean": 1.3621409362479489,
+          "cluster_std": 0.6943790487382973
+        },
+        {
+          "rank": 7,
+          "feature_id": 762,
+          "feature_name": "Feature_762",
+          "importance_score": 1.2098109368918981,
+          "phi_weight": 0.8557510375976562,
+          "cluster_mean": 1.4137417119448568,
+          "cluster_std": 0.6961360737102006
+        },
+        {
+          "rank": 8,
+          "feature_id": 342,
+          "feature_name": "Feature_342",
+          "importance_score": 1.1891282954554654,
+          "phi_weight": 0.9404581189155579,
+          "cluster_mean": -1.2644138761082195,
+          "cluster_std": 0.6207408487959352
+        },
+        {
+          "rank": 9,
+          "feature_id": 30,
+          "feature_name": "Feature_30",
+          "importance_score": 1.1666671886935729,
+          "phi_weight": 0.9080466032028198,
+          "cluster_mean": -1.2848098154638303,
+          "cluster_std": 0.578164609742015
+        },
+        {
+          "rank": 10,
+          "feature_id": 650,
+          "feature_name": "Feature_650",
+          "importance_score": 1.1365897144657369,
+          "phi_weight": 0.8000441789627075,
+          "cluster_mean": 1.4206586890481165,
+          "cluster_std": 0.7947140795660195
+        },
+        {
+          "rank": 11,
+          "feature_id": 722,
+          "feature_name": "Feature_722",
+          "importance_score": 1.1343698678851837,
+          "phi_weight": 0.9482558369636536,
+          "cluster_mean": -1.1962698500411801,
+          "cluster_std": 0.5394350773656389
+        },
+        {
+          "rank": 12,
+          "feature_id": 547,
+          "feature_name": "Feature_547",
+          "importance_score": 1.1199717156519704,
+          "phi_weight": 0.9308241009712219,
+          "cluster_mean": 1.2032044663254764,
+          "cluster_std": 0.7858521234600747
+        },
+        {
+          "rank": 13,
+          "feature_id": 729,
+          "feature_name": "Feature_729",
+          "importance_score": 1.0999297756162916,
+          "phi_weight": 0.8126034736633301,
+          "cluster_mean": -1.3535873415082196,
+          "cluster_std": 0.8250713823466138
+        },
+        {
+          "rank": 14,
+          "feature_id": 253,
+          "feature_name": "Feature_253",
+          "importance_score": 1.0742187214159478,
+          "phi_weight": 0.9031652808189392,
+          "cluster_mean": 1.1893932862896446,
+          "cluster_std": 0.6882290572283729
+        },
+        {
+          "rank": 15,
+          "feature_id": 59,
+          "feature_name": "Feature_59",
+          "importance_score": 1.0560029423285946,
+          "phi_weight": 0.8448312282562256,
+          "cluster_mean": 1.249957277867484,
+          "cluster_std": 0.7762793040118993
+        },
+        {
+          "rank": 16,
+          "feature_id": 456,
+          "feature_name": "Feature_456",
+          "importance_score": 1.0491913141173073,
+          "phi_weight": 0.9144639372825623,
+          "cluster_mean": -1.14732934929627,
+          "cluster_std": 0.7822794444378709
+        },
+        {
+          "rank": 17,
+          "feature_id": 229,
+          "feature_name": "Feature_229",
+          "importance_score": 1.0418989810052675,
+          "phi_weight": 0.9164026975631714,
+          "cluster_mean": -1.136944471874435,
+          "cluster_std": 0.6106421515317424
+        },
+        {
+          "rank": 18,
+          "feature_id": 681,
+          "feature_name": "Feature_681",
+          "importance_score": 1.0352539270314427,
+          "phi_weight": 0.8624679446220398,
+          "cluster_mean": 1.200339019539008,
+          "cluster_std": 0.6375039433565807
+        },
+        {
+          "rank": 19,
+          "feature_id": 65,
+          "feature_name": "Feature_65",
+          "importance_score": 1.0277667321359851,
+          "phi_weight": 0.9208753108978271,
+          "cluster_mean": 1.1160758899420833,
+          "cluster_std": 1.0328484581161335
+        },
+        {
+          "rank": 20,
+          "feature_id": 626,
+          "feature_name": "Feature_626",
+          "importance_score": 1.0227838698230782,
+          "phi_weight": 0.826770007610321,
+          "cluster_mean": -1.2370839053285345,
+          "cluster_std": 0.7394559613492796
+        }
+      ]
+    },
+    "cluster_3": {
+      "size": 1329,
+      "percentage": 25.55769230769231,
+      "avg_membership_prob": 0.9984484314918518,
+      "top_features": [
+        {
+          "rank": 1,
+          "feature_id": 369,
+          "feature_name": "Feature_369",
+          "importance_score": 0.8470086968051855,
+          "phi_weight": 0.9469742178916931,
+          "cluster_mean": 0.8944369137007057,
+          "cluster_std": 0.7061412551497261
+        },
+        {
+          "rank": 2,
+          "feature_id": 472,
+          "feature_name": "Feature_472",
+          "importance_score": 0.8254036289455519,
+          "phi_weight": 0.9164277911186218,
+          "cluster_mean": -0.9006750307495991,
+          "cluster_std": 0.9099138224918071
+        },
+        {
+          "rank": 3,
+          "feature_id": 639,
+          "feature_name": "Feature_639",
+          "importance_score": 0.7742863117898979,
+          "phi_weight": 0.8859105110168457,
+          "cluster_mean": -0.8740005927925769,
+          "cluster_std": 0.8383687820539671
+        },
+        {
+          "rank": 4,
+          "feature_id": 599,
+          "feature_name": "Feature_599",
+          "importance_score": 0.7730126930732605,
+          "phi_weight": 0.9024898409843445,
+          "cluster_mean": 0.8565334012293552,
+          "cluster_std": 1.008054681404237
+        },
+        {
+          "rank": 5,
+          "feature_id": 202,
+          "feature_name": "Feature_202",
+          "importance_score": 0.7403655620735167,
+          "phi_weight": 0.9421613216400146,
+          "cluster_mean": -0.7858161283725452,
+          "cluster_std": 0.7432455388666332
+        },
+        {
+          "rank": 6,
+          "feature_id": 655,
+          "feature_name": "Feature_655",
+          "importance_score": 0.7368098481365669,
+          "phi_weight": 0.9279708862304688,
+          "cluster_mean": -0.7940010393317173,
+          "cluster_std": 0.8988540781447059
+        },
+        {
+          "rank": 7,
+          "feature_id": 198,
+          "feature_name": "Feature_198",
+          "importance_score": 0.7288152532811843,
+          "phi_weight": 0.9160534143447876,
+          "cluster_mean": -0.7956034461183397,
+          "cluster_std": 0.6302919561410876
+        },
+        {
+          "rank": 8,
+          "feature_id": 300,
+          "feature_name": "Feature_300",
+          "importance_score": 0.7280440748077882,
+          "phi_weight": 0.9041092991828918,
+          "cluster_mean": 0.8052611287880499,
+          "cluster_std": 0.8104005741218758
+        },
+        {
+          "rank": 9,
+          "feature_id": 327,
+          "feature_name": "Feature_327",
+          "importance_score": 0.7156967153627076,
+          "phi_weight": 0.9366576075553894,
+          "cluster_mean": -0.7640964100325046,
+          "cluster_std": 0.7755596724214737
+        },
+        {
+          "rank": 10,
+          "feature_id": 587,
+          "feature_name": "Feature_587",
+          "importance_score": 0.7136634469735792,
+          "phi_weight": 0.9355459213256836,
+          "cluster_mean": 0.7628310173832051,
+          "cluster_std": 0.7286588891735729
+        },
+        {
+          "rank": 11,
+          "feature_id": 114,
+          "feature_name": "Feature_114",
+          "importance_score": 0.7086651128433308,
+          "phi_weight": 0.9056551456451416,
+          "cluster_mean": 0.7824889156219773,
+          "cluster_std": 0.6469848495429901
+        },
+        {
+          "rank": 12,
+          "feature_id": 677,
+          "feature_name": "Feature_677",
+          "importance_score": 0.7073936021707864,
+          "phi_weight": 0.9069523215293884,
+          "cluster_mean": -0.7799677947545387,
+          "cluster_std": 0.6004054100697589
+        },
+        {
+          "rank": 13,
+          "feature_id": 359,
+          "feature_name": "Feature_359",
+          "importance_score": 0.7027702443968896,
+          "phi_weight": 0.9089056849479675,
+          "cluster_mean": -0.7732048066539724,
+          "cluster_std": 0.7757721544446746
+        },
+        {
+          "rank": 14,
+          "feature_id": 756,
+          "feature_name": "Feature_756",
+          "importance_score": 0.6942844778763421,
+          "phi_weight": 0.9007625579833984,
+          "cluster_mean": 0.7707741310103812,
+          "cluster_std": 0.703848753272147
+        },
+        {
+          "rank": 15,
+          "feature_id": 644,
+          "feature_name": "Feature_644",
+          "importance_score": 0.6893409520008382,
+          "phi_weight": 0.9165804982185364,
+          "cluster_mean": -0.7520790081620105,
+          "cluster_std": 0.7071340303333897
+        },
+        {
+          "rank": 16,
+          "feature_id": 20,
+          "feature_name": "Feature_20",
+          "importance_score": 0.6808746498638991,
+          "phi_weight": 0.9378394484519958,
+          "cluster_mean": 0.7260034230675149,
+          "cluster_std": 0.7794999873927525
+        },
+        {
+          "rank": 17,
+          "feature_id": 416,
+          "feature_name": "Feature_416",
+          "importance_score": 0.6793093662334502,
+          "phi_weight": 0.8996396660804749,
+          "cluster_mean": -0.7550905010592145,
+          "cluster_std": 0.8020459066569634
+        },
+        {
+          "rank": 18,
+          "feature_id": 384,
+          "feature_name": "Feature_384",
+          "importance_score": 0.6720375094940314,
+          "phi_weight": 0.9334861636161804,
+          "cluster_mean": -0.719922303819333,
+          "cluster_std": 0.7675371906232007
+        },
+        {
+          "rank": 19,
+          "feature_id": 486,
+          "feature_name": "Feature_486",
+          "importance_score": 0.6603924929794063,
+          "phi_weight": 0.9226818084716797,
+          "cluster_mean": -0.7157315630545197,
+          "cluster_std": 0.8406801118717563
+        },
+        {
+          "rank": 20,
+          "feature_id": 433,
+          "feature_name": "Feature_433",
+          "importance_score": 0.6577509313077867,
+          "phi_weight": 0.8650467991828918,
+          "cluster_mean": -0.7603645628526535,
+          "cluster_std": 0.8457567661574067
+        }
+      ]
+    },
+    "cluster_4": {
+      "size": 401,
+      "percentage": 7.711538461538462,
+      "avg_membership_prob": 0.9308037161827087,
+      "top_features": [
+        {
+          "rank": 1,
+          "feature_id": 14,
+          "feature_name": "Feature_14",
+          "importance_score": 1.270447405333256,
+          "phi_weight": 0.9111607670783997,
+          "cluster_mean": 1.3943175027244583,
+          "cluster_std": 0.9473357279960404
+        },
+        {
+          "rank": 2,
+          "feature_id": 556,
+          "feature_name": "Feature_556",
+          "importance_score": 1.1560130962195445,
+          "phi_weight": 0.9186406135559082,
+          "cluster_mean": -1.2583953715531977,
+          "cluster_std": 0.9823454070301876
+        },
+        {
+          "rank": 3,
+          "feature_id": 406,
+          "feature_name": "Feature_406",
+          "importance_score": 1.0597573688798152,
+          "phi_weight": 0.9236751198768616,
+          "cluster_mean": -1.1473269616930846,
+          "cluster_std": 0.8066681293555822
+        },
+        {
+          "rank": 4,
+          "feature_id": 152,
+          "feature_name": "Feature_152",
+          "importance_score": 0.988379802121146,
+          "phi_weight": 0.8179009556770325,
+          "cluster_mean": 1.208434585215757,
+          "cluster_std": 1.0022454865669241
+        },
+        {
+          "rank": 5,
+          "feature_id": 608,
+          "feature_name": "Feature_608",
+          "importance_score": 0.9808993421497925,
+          "phi_weight": 0.9230086207389832,
+          "cluster_mean": 1.0627195890808263,
+          "cluster_std": 1.033649601268361
+        },
+        {
+          "rank": 6,
+          "feature_id": 415,
+          "feature_name": "Feature_415",
+          "importance_score": 0.9471528907068589,
+          "phi_weight": 0.6533145904541016,
+          "cluster_mean": 1.44976540329295,
+          "cluster_std": 1.0408689971891134
+        },
+        {
+          "rank": 7,
+          "feature_id": 706,
+          "feature_name": "Feature_706",
+          "importance_score": 0.9413337457389795,
+          "phi_weight": 0.744588315486908,
+          "cluster_mean": 1.264233840579964,
+          "cluster_std": 1.6041728904889165
+        },
+        {
+          "rank": 8,
+          "feature_id": 221,
+          "feature_name": "Feature_221",
+          "importance_score": 0.9316341306507142,
+          "phi_weight": 0.8956810832023621,
+          "cluster_mean": -1.040140456377406,
+          "cluster_std": 0.7774013097958703
+        },
+        {
+          "rank": 9,
+          "feature_id": 35,
+          "feature_name": "Feature_35",
+          "importance_score": 0.9272051632762318,
+          "phi_weight": 0.8881529569625854,
+          "cluster_mean": 1.043970136008106,
+          "cluster_std": 1.0825035004763752
+        },
+        {
+          "rank": 10,
+          "feature_id": 755,
+          "feature_name": "Feature_755",
+          "importance_score": 0.9109457507014554,
+          "phi_weight": 0.7814343571662903,
+          "cluster_mean": -1.1657354739364307,
+          "cluster_std": 1.4204759381723957
+        },
+        {
+          "rank": 11,
+          "feature_id": 530,
+          "feature_name": "Feature_530",
+          "importance_score": 0.8983128086815197,
+          "phi_weight": 0.8991730213165283,
+          "cluster_mean": -0.9990433291317514,
+          "cluster_std": 1.3109193341858574
+        },
+        {
+          "rank": 12,
+          "feature_id": 687,
+          "feature_name": "Feature_687",
+          "importance_score": 0.8713791270229471,
+          "phi_weight": 0.9051594734191895,
+          "cluster_mean": -0.9626802266470912,
+          "cluster_std": 0.9507730082502883
+        },
+        {
+          "rank": 13,
+          "feature_id": 260,
+          "feature_name": "Feature_260",
+          "importance_score": 0.8687987001371575,
+          "phi_weight": 0.8701707720756531,
+          "cluster_mean": 0.9984232153244786,
+          "cluster_std": 1.493295764069061
+        },
+        {
+          "rank": 14,
+          "feature_id": 571,
+          "feature_name": "Feature_571",
+          "importance_score": 0.8629898449711393,
+          "phi_weight": 0.9278541803359985,
+          "cluster_mean": -0.9300921020355049,
+          "cluster_std": 0.837183119962292
+        },
+        {
+          "rank": 15,
+          "feature_id": 455,
+          "feature_name": "Feature_455",
+          "importance_score": 0.855289447927729,
+          "phi_weight": 0.7541176080703735,
+          "cluster_mean": -1.1341592329560275,
+          "cluster_std": 1.1611018099457087
+        },
+        {
+          "rank": 16,
+          "feature_id": 162,
+          "feature_name": "Feature_162",
+          "importance_score": 0.851881700476345,
+          "phi_weight": 0.751005232334137,
+          "cluster_mean": -1.1343219245339773,
+          "cluster_std": 0.9004482807777815
+        },
+        {
+          "rank": 17,
+          "feature_id": 552,
+          "feature_name": "Feature_552",
+          "importance_score": 0.8479511381508694,
+          "phi_weight": 0.9110413193702698,
+          "cluster_mean": 0.9307493745036618,
+          "cluster_std": 0.871957879704832
+        },
+        {
+          "rank": 18,
+          "feature_id": 251,
+          "feature_name": "Feature_251",
+          "importance_score": 0.8427830520977377,
+          "phi_weight": 0.8914715051651001,
+          "cluster_mean": 0.9453841734870199,
+          "cluster_std": 0.5862327298862111
+        },
+        {
+          "rank": 19,
+          "feature_id": 74,
+          "feature_name": "Feature_74",
+          "importance_score": 0.8403649278120856,
+          "phi_weight": 0.934302806854248,
+          "cluster_mean": -0.8994567089459501,
+          "cluster_std": 1.4926749271593174
+        },
+        {
+          "rank": 20,
+          "feature_id": 92,
+          "feature_name": "Feature_92",
+          "importance_score": 0.8294132751591511,
+          "phi_weight": 0.9012774229049683,
+          "cluster_mean": -0.9202641207696216,
+          "cluster_std": 0.8921087056582264
+        }
+      ]
+    },
+    "cluster_5": {
+      "size": 208,
+      "percentage": 4.0,
+      "avg_membership_prob": 0.9045885801315308,
+      "top_features": [
+        {
+          "rank": 1,
+          "feature_id": 14,
+          "feature_name": "Feature_14",
+          "importance_score": 1.6234080958265804,
+          "phi_weight": 0.9111607670783997,
+          "cluster_mean": 1.781692270434309,
+          "cluster_std": 0.9656738912205183
+        },
+        {
+          "rank": 2,
+          "feature_id": 616,
+          "feature_name": "Feature_616",
+          "importance_score": 1.2202549640870597,
+          "phi_weight": 0.928045392036438,
+          "cluster_mean": 1.3148656030815664,
+          "cluster_std": 0.9918054698001008
+        },
+        {
+          "rank": 3,
+          "feature_id": 685,
+          "feature_name": "Feature_685",
+          "importance_score": 1.167030166766496,
+          "phi_weight": 0.9213018417358398,
+          "cluster_mean": 1.2667185865684099,
+          "cluster_std": 1.2732507533374249
+        },
+        {
+          "rank": 4,
+          "feature_id": 451,
+          "feature_name": "Feature_451",
+          "importance_score": 1.157924059022273,
+          "phi_weight": 0.8073222637176514,
+          "cluster_mean": 1.434277377276987,
+          "cluster_std": 1.3520032154360302
+        },
+        {
+          "rank": 5,
+          "feature_id": 654,
+          "feature_name": "Feature_654",
+          "importance_score": 1.1150114585571878,
+          "phi_weight": 0.8901639580726624,
+          "cluster_mean": 1.2525911080149255,
+          "cluster_std": 1.072490668915238
+        },
+        {
+          "rank": 6,
+          "feature_id": 260,
+          "feature_name": "Feature_260",
+          "importance_score": 1.0623129500125004,
+          "phi_weight": 0.8701707720756531,
+          "cluster_mean": 1.2208097354023084,
+          "cluster_std": 1.2913284002092442
+        },
+        {
+          "rank": 7,
+          "feature_id": 415,
+          "feature_name": "Feature_415",
+          "importance_score": 1.0448530656324715,
+          "phi_weight": 0.6533145904541016,
+          "cluster_mean": 1.5993107775324933,
+          "cluster_std": 1.0781896523884724
+        },
+        {
+          "rank": 8,
+          "feature_id": 221,
+          "feature_name": "Feature_221",
+          "importance_score": 1.032577314847857,
+          "phi_weight": 0.8956810832023621,
+          "cluster_mean": -1.1528403738929538,
+          "cluster_std": 0.8711799984885438
+        },
+        {
+          "rank": 9,
+          "feature_id": 406,
+          "feature_name": "Feature_406",
+          "importance_score": 1.0276247707929131,
+          "phi_weight": 0.9236751198768616,
+          "cluster_mean": -1.1125391911930134,
+          "cluster_std": 1.00437849015989
+        },
+        {
+          "rank": 10,
+          "feature_id": 279,
+          "feature_name": "Feature_279",
+          "importance_score": 1.013978977462736,
+          "phi_weight": 0.877644956111908,
+          "cluster_mean": -1.155340745026106,
+          "cluster_std": 1.3745286572113775
+        },
+        {
+          "rank": 11,
+          "feature_id": 15,
+          "feature_name": "Feature_15",
+          "importance_score": 1.0120049719368436,
+          "phi_weight": 0.9317087531089783,
+          "cluster_mean": 1.0861816727168532,
+          "cluster_std": 0.977123031650916
+        },
+        {
+          "rank": 12,
+          "feature_id": 191,
+          "feature_name": "Feature_191",
+          "importance_score": 1.011349431864243,
+          "phi_weight": 0.9137780070304871,
+          "cluster_mean": 1.106778040271329,
+          "cluster_std": 1.0561750165531705
+        },
+        {
+          "rank": 13,
+          "feature_id": 455,
+          "feature_name": "Feature_455",
+          "importance_score": 0.9936428343079804,
+          "phi_weight": 0.7541176080703735,
+          "cluster_mean": -1.3176231713386204,
+          "cluster_std": 0.9229366213594257
+        },
+        {
+          "rank": 14,
+          "feature_id": 324,
+          "feature_name": "Feature_324",
+          "importance_score": 0.9893580237820666,
+          "phi_weight": 0.7777583003044128,
+          "cluster_mean": -1.27206360047181,
+          "cluster_std": 1.038279548818292
+        },
+        {
+          "rank": 15,
+          "feature_id": 687,
+          "feature_name": "Feature_687",
+          "importance_score": 0.9426651194978289,
+          "phi_weight": 0.9051594734191895,
+          "cluster_mean": -1.041435401362993,
+          "cluster_std": 0.9462916013030304
+        },
+        {
+          "rank": 16,
+          "feature_id": 113,
+          "feature_name": "Feature_113",
+          "importance_score": 0.937790156292485,
+          "phi_weight": 0.8498099446296692,
+          "cluster_mean": -1.1035292799511258,
+          "cluster_std": 0.8703114654501414
+        },
+        {
+          "rank": 17,
+          "feature_id": 269,
+          "feature_name": "Feature_269",
+          "importance_score": 0.934452773716541,
+          "phi_weight": 0.900850772857666,
+          "cluster_mean": -1.0373002964212188,
+          "cluster_std": 0.9493754152056811
+        },
+        {
+          "rank": 18,
+          "feature_id": 148,
+          "feature_name": "Feature_148",
+          "importance_score": 0.9278607820142369,
+          "phi_weight": 0.8848391771316528,
+          "cluster_mean": 1.0486208183299992,
+          "cluster_std": 1.0093944654236089
+        },
+        {
+          "rank": 19,
+          "feature_id": 312,
+          "feature_name": "Feature_312",
+          "importance_score": 0.9248021463959952,
+          "phi_weight": 0.8863149881362915,
+          "cluster_mean": 1.0434237926412968,
+          "cluster_std": 0.7762787895005968
+        },
+        {
+          "rank": 20,
+          "feature_id": 591,
+          "feature_name": "Feature_591",
+          "importance_score": 0.922537771546075,
+          "phi_weight": 0.9105933308601379,
+          "cluster_mean": 1.0131172064204055,
+          "cluster_std": 1.0108684535825476
+        }
+      ]
+    }
+  }
+}
