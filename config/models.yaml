@@ -5,12 +5,6 @@ models:
     quantization: "Q8"
     lm_studio_url: "http://localhost:1234"
 
-  - name: "llama3-taide-lx-8b-chat"
-    type: "local"
-    path: "llama3-taide-lx-8b-chat-alpha1"
-    quantization: "Q8"
-    lm_studio_url: "http://localhost:1234"
-
   - name: "llama-breeze2-8b-instruct-text"
     type: "local"
     path: "llama-breeze2-8b-instruct-text"
