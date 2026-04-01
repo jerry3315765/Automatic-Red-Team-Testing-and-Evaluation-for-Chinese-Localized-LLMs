@@ -19,8 +19,6 @@ The purpose is to support paper appendix linking (GitHub URL) so readers can ins
   - `data/`
   - `results/`
   - `external/PromptFuzz-Thesis/Results/`
-- Paper source and figures
-  - `paper/Automatic_Red_Team_Testing_and_Evaluation_for_Traditional_Chinese_Localized_LLMs/`
 - Integrated external frameworks
   - `external/PromptFuzz-Thesis/`
   - `external/GPTFuzz/`
